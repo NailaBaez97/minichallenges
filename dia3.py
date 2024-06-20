@@ -14,7 +14,3 @@ for c in palabra_ingresada:
 
 # imprimimos resultadoss
 print("La cantidad de Vocales son: ",voc)
-
-
-
-    
