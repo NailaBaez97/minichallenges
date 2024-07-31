@@ -1,0 +1,41 @@
+Búsqueda en lista ordenada: Implementa una función de búsqueda binaria que determine si un número está en una lista ordenada de 10 elementos.
+
+Ordenamiento simple: Escribe una función que ordena una lista de 5 enteros utilizando cualquier método de ordenamiento que prefieras (por ejemplo, burbuja, inserción, selección).
+
+Recorrido en profundidad (DFS): Implementa un recorrido DFS para un gráfico simple con 5 nodos.
+
+Recorrido en amplitud (BFS): Implementa un recorrido BFS para un gráfico simple con 5 nodos.
+
+Camino más corto: Dado un grafo pequeño con 5 nudos y 6 aristas, escribe una función que encuentre el camino más corto entre dos nudos especificados usando cualquier método que prefieras.
+
+Árbol binario de búsqueda (BST): Implementa solo la inserción en un árbol binario de búsqueda para 5 elementos.
+
+Piloto de eventos (Priority Queue): Implementa una cola de prioridad utilizando una lista para insertar y eliminar 5 elementos.
+
+Pilas y colas: Implementa las operaciones básicas de una pila y/o una cola para 5 elementos.
+
+Recursión factorial: Implementa una función recursiva para calcular el factorial de un número pequeño (por ejemplo, 5).
+
+Eliminar duplicados: Implementa una función que elimine los elementos duplicados de una lista de 10 enteros.
+
+Clase de Punto 2D: Crea una clase Punto2Dcon atributos x& y, y un método para imprimir sus coordenadas.
+
+Figura y Círculo: Crea una clase base Figuracon un método imprimiry una clase derivada Círculoque extienda Figuray sobreescriba el método imprimir.
+
+Cuenta bancaria: Implementa una clase CuentaBancariacon métodos para depositar y consultar el saldo.
+
+Polimorfismo: Crea una clase base Animalcon un método hacerSonidoy una clase derivada Perroque sobrescriba este método.
+
+Auto y Motor: Implementa una clase Autoque contenga una instancia de una clase Motorcon un método para describir el motor.
+
+Formas geométricas: Define una clase base FormaGeometricacon métodos calcular_areay calcular_perimetro. Crea clases derivadas Rectanguloy Circuloque sobrescriban estos métodos.
+
+Creación de tabla: Escribe una consulta SQL para crear una tabla Usuarioscon columnas idy nombre.
+
+Inserción de datos: Escribe una consulta SQL para insertar un solo registro en la tabla Usuarios.
+
+Consulta básica: Escribe una consulta SQL para seleccionar todos los registros de la tabla Usuarios.
+
+Actualizar registros: Escribe una consulta SQL para actualizar el nombre de un usuario específico en la tabla Usuarios.
+
+Eliminar registros: Escribe una consulta SQL para eliminar un usuario específico de la tabla Usuarios.
