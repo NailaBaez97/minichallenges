@@ -27,7 +27,6 @@ class PriorityQueue:
 if __name__ == '__main__':
     mi_prioridad_queue= PriorityQueue()
     
-   
     mi_prioridad_queue.insertar(4)
     mi_prioridad_queue.insertar(2)
     mi_prioridad_queue.insertar(5)
